@@ -2,7 +2,7 @@
 # 1. Menampilkan Nilai n bilangan acak yang lebih kecil dari 0,5
 
 kode sbb:
-(gam1)
+![daftar](
 
 Algoritma
 
