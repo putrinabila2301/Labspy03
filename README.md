@@ -2,6 +2,7 @@
 # 1. Menampilkan Nilai n bilangan acak yang lebih kecil dari 0,5
 
 kode sbb:
+
 ![daftar](https://github.com/putrinabila2301/Labspy03/blob/master/gam1.png)
 
 Algoritma
@@ -23,10 +24,12 @@ Kode di atas digunakan untuk mendapatkan nilai acak dengan tipe data float yang 
 Fungsi for loop akan terus mencetak baris baru sesuai nilai yang di masukan ke dalam input n yang akan menghasilkan output berupa string dan nilai acak. Jika input n belum terpenuhi atau tercetak, perulangan akan terus terjadi.
 
 Output:
+
 ![daftar](https://github.com/putrinabila2301/Labspy03/blob/master/gam2.png)
 
 # 2. membuat program untuk menampilkan bilangan terbesar dari n buah data yang diinputkan. Masukkan angka 0 untuk berhenti.
 kode sbb:
+
 ![daftar](https://github.com/putrinabila2301/Labspy03/blob/master/gam3.png)
 
 Algoritma
@@ -52,12 +55,14 @@ Hasil akhir dengan input terbesar akan dicetak seperti ini :
 
 print("Bilangan terbesar adalah: ", terbesar)
 Output :
+
 ![daftar](https://github.com/putrinabila2301/Labspy03/blob/master/gam4.png)
 
 # 3. Membuat program sederhana dengan perulangan.
 "Seorang pengusaha menginvestasikan uangnya untuk memulai usahanya dengan modal awal 100 juta, pada bulan pertama dan kedua belum mendapatkan laba. pada bulan ketiga baru mulai mendapatkan laba sebesar 1% dan pada bulan ke 5, pendapatan meningkat 5%, selanjutnya pada bulan ke 8 mengalami penurunan keuntungan sebesar 2%, sehingga laba menjadi 3%. Hitung total keuntungan selama 8 bulan berjalan usahanya."
 
 Kode sbb:
+
 ![daftar](https://github.com/putrinabila2301/Labspy03/blob/master/gam5.png)
 
 Algoritma Kode berikut berfungsi sebagai perulangan dan digunakan untuk mencetak berapa baris yang akan di cetak yang mewakili jumlah bulan.
@@ -84,4 +89,5 @@ Total keuntungan didapatkan dengan cara menambahkan setiap keuntungan yang terus
 keuntungan = keuntungan + laba
 
 Output :
+
 ![daftar](https://github.com/putrinabila2301/Labspy03/blob/master/gam6.png)
