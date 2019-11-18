@@ -1,5 +1,5 @@
 # Labspy03
-1. Menampilkan Nilai n bilangan acak yang lebih kecil dari 0,5
+# 1. Menampilkan Nilai n bilangan acak yang lebih kecil dari 0,5
 
 kode sbb:
 (gam1)
@@ -25,7 +25,7 @@ Fungsi for loop akan terus mencetak baris baru sesuai nilai yang di masukan ke d
 Output:
 (gam2)
 
-2. membuat program untuk menampilkan bilangan terbesar dari n buah data yang diinputkan. Masukkan angka 0 untuk berhenti.
+# 2. membuat program untuk menampilkan bilangan terbesar dari n buah data yang diinputkan. Masukkan angka 0 untuk berhenti.
 kode sbb:
 
 (gam3)
@@ -55,7 +55,7 @@ print("Bilangan terbesar adalah: ", terbesar)
 Output :
 (gam4)
 
-3. Membuat program sederhana dengan perulangan.
+# 3. Membuat program sederhana dengan perulangan.
 "Seorang pengusaha menginvestasikan uangnya untuk memulai usahanya dengan modal awal 100 juta, pada bulan pertama dan kedua belum mendapatkan laba. pada bulan ketiga baru mulai mendapatkan laba sebesar 1% dan pada bulan ke 5, pendapatan meningkat 5%, selanjutnya pada bulan ke 8 mengalami penurunan keuntungan sebesar 2%, sehingga laba menjadi 3%. Hitung total keuntungan selama 8 bulan berjalan usahanya."
 
 Kode sbb:
